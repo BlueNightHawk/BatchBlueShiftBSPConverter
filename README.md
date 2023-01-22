@@ -1,0 +1,1 @@
+Drag and drop bsp files from Blue Shift to convert them to normal bsp!
